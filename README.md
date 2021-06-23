@@ -3,6 +3,11 @@
 - Hi everyone, basically I've joined all the cool projects that I've done so far in this challenge into one file to keep it organised :slightly_smiling_face:.
 - In this text file I'm gonna comment about the projects from the most recent one that I've uploaded to the oldest.
 
+#Hirst Painting :paintbrush:
+- This project was based on the Damien Hirst's spot painting which was sold by over 1.000.000,00 pounds, crazy isn't it ?
+- I used turtle package to create an object "turtle" called alex and Screen to display the painting.
+- Also I've imported the colorgram package which extract a color from the image and returns as list.
+
 ## Quizz OOP
 - This project is where I started to learn about objects. Actually it's my very first OOP project :grin:.
 - The program itself is a quiz game that has 12 questions and a score.
