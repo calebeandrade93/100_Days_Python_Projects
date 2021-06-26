@@ -3,6 +3,9 @@
 - Hi everyone, basically I've joined all the cool projects that I've done so far in this challenge into one file to keep it organised :slightly_smiling_face:.
 - In this text file I'm gonna comment about the projects from the most recent one that I've uploaded to the oldest.
 
+## Snake Game :snake:
+- A classical arcade snake game.
+
 ## Turtle Race
 - 5 turtles racing against each other you never know who's gonna win, make your bet ! 
 
