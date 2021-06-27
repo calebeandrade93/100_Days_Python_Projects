@@ -5,7 +5,7 @@
 
 ## Turtle Crossing :turtle:
 - I built this game based on the famous "Crossing Road"
-- There is 15 levels which will be kinda impossible you cross the road at level 15... But if you lucky try it out !
+- There iare 15 levels which will be kinda impossible you cross the road at level 15... But if you lucky try it out !
 
 ## Pong Game
 - A classical arcade game
