@@ -5,7 +5,7 @@
 
 ## Pong Game
 - A classical arcade game
-- There is few things I might come back to change in the future like the interface and change the speed of the ball increasing every for a certin period
+- There is few things I might come back to change in the future like the interface and the ball's speed.
 
 ## Snake Game :snake:
 - A classical arcade snake game.
